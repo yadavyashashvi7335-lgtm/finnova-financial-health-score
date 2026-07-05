@@ -1,0 +1,9 @@
+streamlit
+groq
+pandas
+numpy
+scikit-learn
+xgboost
+matplotlib
+seaborn
+python-dotenv
